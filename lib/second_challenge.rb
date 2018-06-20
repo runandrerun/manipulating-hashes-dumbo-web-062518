@@ -8,6 +8,6 @@ def second_challenge
 
   #code your solution here!
   values = []
-  groceries.values
+  values << groceries.values
 
 end
